@@ -1,3 +1,7 @@
 client:
   pseudo:
     property: Property value loaded from Git - devtest
+
+deimos:
+  datasource:
+    username: git username-dev
