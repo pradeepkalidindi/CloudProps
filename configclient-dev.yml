@@ -4,4 +4,4 @@ client:
 
 deimos:
   datasource:
-    username: git username-devjjjj
+    username: git username-dev
