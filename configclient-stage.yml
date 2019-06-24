@@ -1,3 +1,6 @@
 client:
   pseudo:
     property: Property value loaded from Git - devtest
+lcd:
+  datasource:
+    password: ENC(736300029347b31b7da7c1fa7ef6aba678bf42c493d6343e438e7ee96fffdcf37e24b9f84b4210fb52be44703fc42b3b0d9b14b5504d620cafe3e73f6f7ab36d93033673c6efb2ca7c205572777abdd723e70bf615dd)
